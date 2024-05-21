@@ -1,0 +1,13 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "firstname": "Ryle Andrei",
+            "middlename": "Marasigan",
+            "lastname": "Cabudol",
+            "suffix": "",
+            "studentNumber": "2020263351"
+    
+        }
+    ] 
+}
